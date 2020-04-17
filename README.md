@@ -1,12 +1,15 @@
-# payload-generator
+# Payload Injector Generator
+Cara mudah membuat payload HTTP Injector dengan sebuah aplikasi Termux yang didukung oleh Tools ini. Kelebihan dari Tools ini adalah mampu membuat 5 macam payload dalam hitungan detik dan juga bisa input manual bug yang kita ingin gunakan.
 
-membuat paylaod di aplikasi termux
+# Cara Install
+$ apt update && apt upgrade
+$ apt install python2 git curl
+$ git clone https://github.com/kyo1337/payload-injector-generator
+$ cd payload-injector-generator
+$ bash payload.sh
 
-kode perintah 
-pkg install bash
-cd payload
-bash payload.sh
+# Media Social
+https://linktr.ee/doko1554
 
-
-selengkapnya cek di
-https://www.kumpulanremaja.com/2019/11/cara-membuat-payload-dengan-termux.html
+# Special Thanks
+blackcodercrush
