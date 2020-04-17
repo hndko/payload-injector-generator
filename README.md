@@ -4,16 +4,12 @@ Kelebihan dari Tools ini adalah mampu membuat 5 macam payload dalam hitungan det
 
 # Cara Install
 $ apt update && apt upgrade<br>
-$ apt install python2 git curl<br>
+$ apt install python git curl<br>
 $ git clone https://github.com/kyo1337/payload-injector-generator<br>
 $ cd payload-injector-generator<br>
-$ bash payload.sh<br>
+$ python payloadgenerator.py<br>
 
 # Media Social
 - https://linktr.ee/doko1554
 
-# Special Thanks
-- blackcodercrush
-
 # ScreenShot
-![Capture](https://user-images.githubusercontent.com/33697576/79546243-4d75e380-80bc-11ea-9c38-3d4071da4114.PNG)
