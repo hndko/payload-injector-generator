@@ -13,3 +13,4 @@ $ python payloadgenerator.py<br>
 - https://linktr.ee/doko1554
 
 # ScreenShot
+![Capture](https://user-images.githubusercontent.com/33697576/79632058-1ae4ed00-8187-11ea-9e2f-24d63637f1c3.PNG)
